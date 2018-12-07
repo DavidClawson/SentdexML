@@ -10,14 +10,14 @@ https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YR
 ## Links to the IPython Notebooks. 
 All are in Python 3
 
-Part 1: No code in this one. 
+**Part 1:** No code in this one. 
 
-Part 2: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt2.ipynb)
+**Part 2**: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt2.ipynb)
 
-Part 3: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt3.ipynb)
+**Part 3**: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt3.ipynb)
 
-Part 4: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt4.ipynb)
+**Part 4**: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt4.ipynb)
 
-Part 5: Coming soon!
+**Part 5**: Coming soon!
 
 Feedback, comments, and corrections are welcome!
