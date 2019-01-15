@@ -18,6 +18,8 @@ All are in Python 3
 
 **Part 4**: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt4.ipynb)
 
-**Part 5**: Coming soon!
+**Part 5**: [Done](https://github.com/GoPlayOutside/SentdexML/blob/master/PML%20Tutorial%20w%20Python%20pt5.ipynb)
+
+**Part 6**: Coming soon!
 
 Feedback, comments, and corrections are welcome!
